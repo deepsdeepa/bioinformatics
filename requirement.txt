@@ -1,0 +1,17 @@
+bbmap==39.10
+bcftools==1.10.2 
+bwa==0.7.17
+fastp==0.24.0
+fastqc==0.12.1
+gatk==3.6 
+gatk4==4.3.0.0
+samtools==1.21
+trimmomatic==0.38
+picard==3.0.0 
+seqtk==1.4
+python==3.8.5 
+pandas==1.2.4
+numpy==1.21.2
+matplotlib==3.4.2
+scipy==1.7.1 
+bioconda==0.1.0
