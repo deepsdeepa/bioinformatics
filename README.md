@@ -1,4 +1,4 @@
-# Bioinformatics Analysis for Pupil Bio PMP Challenge
+# Bioinformatics Analysis
 
 ## Overview
 This repository contains the code and analysis for the Pupil Bio PMP Challenge. The challenge involves bioinformatics processing, such as trimming, quality control, alignment, and variant calling, based on the provided dataset.
